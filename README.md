@@ -1,1 +1,3 @@
-# git-Seminar3
+# git-Seminar
+
+Слинкин П Н
